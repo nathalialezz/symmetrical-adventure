@@ -2,9 +2,9 @@
 
 
 
-## Primeiro repo da Nath
+## Primeiro repo da Infernath
 
 
 
-E eu adoro aprender sobre **github**
+E eu odeio aprender sobre **github**
 
