@@ -2,9 +2,9 @@
 
 
 
-\# Primeiro repo da Nath
+## Primeiro repo da Nath
 
 
 
-E eu adoro aprender sobre \*\*github\*\*
+E eu adoro aprender sobre **github**
 
